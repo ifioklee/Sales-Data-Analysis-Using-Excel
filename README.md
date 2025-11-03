@@ -6,6 +6,27 @@ This repository contains an ongoing analysis of a sales dataset aimed at answeri
 # Goal
 
 # Features
+## Sales Performance Analysis
+
+- **Sales representative generated the highest total sales?**  
+- **The total revenue generated per region?**  
+- **The trend of sales over different months?**
+
+---
+
+## Customer & Product Insights
+
+- **Most popular product category based on quantity sold?**  
+- **Customer type (New vs. Returning) affect sales performance?**  
+- **Payment method is most commonly used?**
+
+---
+
+## Discount & Pricing Analysis
+
+- **The average discount given per product category?**  
+- **The percentage discount impact total sales amount?**
+
 
 # Data
 
