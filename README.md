@@ -27,6 +27,32 @@ This repository contains an ongoing analysis of a sales dataset aimed at answeri
 - **The average discount given per product category?**  
 - **The percentage discount impact total sales amount?**
 
+## Interactive Excel Dashboard
+
+This dashboard provides a comprehensive view of key sales insights, enabling data-driven decision-making and performance tracking.
+
+### Insights Displayed
+
+1. **Sales by Region**  
+   Visualizes total sales distribution across different regions.
+
+2. **Sales Trend Over Time**  
+   Tracks monthly or quarterly sales performance trends.
+
+3. **Sales by Product Category**  
+   Highlights top-performing product categories based on sales.
+
+4. **Sales Performance by Sales Representative**  
+   Compares individual sales representatives’ performance.
+
+5. **Sales by Customer Type**  
+   Differentiates between new and returning customers to assess loyalty impact.
+
+6. **Payment Method Breakdown**  
+   Shows the proportion of transactions made via different payment methods.
+
+7. **Sales by Channel (Online vs. Retail)**  
+   Analyzes the contribution of online and retail channels to overall sales.
 
 # Data
 
