@@ -69,21 +69,25 @@ The dashboard provides a comprehensive view of key sales insights, enabling data
 8. **Average Discount by Product Category**  
    Analyzes the contribution of online and retail channels to overall sales.
 
-
-
-
 # Data
 
 # Project Structure
-/Original data/ 
 
-/Completed Analysis/
+### Raw Dataset
+The original dataset used for this analysis can be found here:  
+[🔗 View Raw Dataset](https://github.com/ifioklee/Sales-Data-Analysis-Using-Excel/tree/main/Orignal%20DataSet)
 
-/Visulizations/ 
+### Completed Analysis
+This folder contains the cleaned data, pivot tables, and final Excel analysis files:  
+[🔗 View Completed Analysis](https://github.com/ifioklee/Sales-Data-Analysis-Using-Excel/tree/main/Completed%20Analysis)
 
-/Dashboard/ 
+### Visualization
+All chart visualizations and the interactive dashboard are available here:  
+[🔗 View Visualization Files](https://github.com/ifioklee/Sales-Data-Analysis-Using-Excel/tree/main/Visualization)
 
-README.md Project verview and instructions
+### README.md Project verview and instructions
+You can explore the complete project documentation here:  
+[🔗 View README File](https://github.com/ifioklee/Sales-Data-Analysis-Using-Excel/blob/main/README.md)
 
 # Technical Details
 
