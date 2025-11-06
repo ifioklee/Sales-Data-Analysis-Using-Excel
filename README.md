@@ -34,6 +34,12 @@ The dashboard provides a comprehensive view of key sales insights, enabling data
 7. **Sales by Channel (Online vs. Retail)**  
    Analyzes the contribution of online and retail channels to overall sales.
 
+8. **Average Discount by Product Category**  
+   Analyzes the contribution of online and retail channels to overall sales.
+
+
+
+
 # Data
 
 # Project Structure
