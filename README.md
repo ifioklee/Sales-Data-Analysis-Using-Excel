@@ -3,7 +3,23 @@
 # Project Overview
 This repository contains an ongoing analysis of a sales dataset aimed at answering questions related to sales performance, customer and product insights, as well as discount and pricing analysis. It also seeks to derive relevant insights that will be visualized through various charts and presented in an interactive dashboard.
 
-# Goal
+## Project Goal
+
+The goal of this project is to find answers related to the following key business questions:
+
+### Sales Performance Analysis
+- Which sales representative generated the highest total sales?  
+- What is the total revenue generated per region?  
+- What is the trend of sales over different months?
+
+### Customer & Product Insights
+- What is the most popular product category based on quantity sold?  
+- How does the customer type (New vs. Returning) affect sales performance?  
+- Which payment method is most commonly used?
+
+### Discount & Pricing Analysis
+- What is the average discount given per product category?  
+- How does the percentage discount impact the total sales amount?
 
 # Features
 
