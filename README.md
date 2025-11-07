@@ -105,7 +105,7 @@ Once the dataset was confirmed complete (with all necessary fields and calculati
 
 ---
 
-### 📊 Pivot Tables and Chart Visualizations
+### Pivot Tables and Chart Visualizations
 
 | Sheet Name | Pivot Table Fields | Visualization Type | Description |
 |-------------|--------------------|--------------------|--------------|
@@ -120,7 +120,7 @@ Once the dataset was confirmed complete (with all necessary fields and calculati
 
 ---
 
-### 🧮 Dashboard Creation
+### Dashboard Creation
 A new sheet named **"Dashboard"** was created to combine all the visualizations into an **interactive Excel dashboard**.  
 This dashboard presents key insights at a glance, integrating all charts generated from the pivot tables.
 
@@ -134,7 +134,7 @@ These slicers allow users to dynamically filter and analyze the data from multip
 
 ---
 
-### 🧠 Tools and Functions Used
+### Tools and Functions Used
 - **Excel Functions:** `TEXT`, `AVERAGE`, `SUM`,   
 - **Features Used:** Excel Tables, Pivot Tables, Slicers, Charts, and Dashboards  
 - **Chart Types:** Clustered Column, 3-D Clustered Column, Pie, and Donut Charts  
@@ -144,11 +144,67 @@ These slicers allow users to dynamically filter and analyze the data from multip
 This structured approach ensured that the analytical process from data cleaning to dashboard visualization was transparent, reproducible, and easy to interpret.
 
 
-# Results and Insights 
+## Results and Insights
 
+### Sales Performance Analysis
+The analysis identified **David** as the **top-performing sales representative**, generating the **highest total sales** with **6,042 products sold**.
 
+The **North** region recorded the **highest revenue** of **$1,369,612.51**, followed by:
+- **East Region:** $1,259,792.93  
+- **West Region:** $1,235,608.93  
+- **South Region:** $1,154,250.86  
 
-# Future Work
+#### Monthly Sales Trend
+- **January** recorded the **highest sales**, reaching close to **$500,000**, setting a strong start to the year.  
+- **February** saw a decline, followed by a **mild recovery** in **March** and **April**.  
+- From **May to September**, sales **fluctuated moderately**, hovering around **$350,000–$450,000**.  
+- **October** and **November** experienced a **rebound**, nearly matching January’s performance—likely due to **seasonal or holiday demand**.  
+- **December** dipped slightly from November but still performed better than mid-year months.
 
-# References and Resources
+#### Overall Trend
+The chart displays a **U-shaped pattern** — strong sales at the **beginning** and **end** of the year, with a **slower middle period** (around May to September).  
+This suggests the presence of **seasonal effects** influencing customer purchasing behavior.
 
+---
+
+### Customer & Product Insights
+**Clothing** emerged as the **most popular product category**, with **6,922 products sold**, representing approximately **27%** of total sales across all product categories.
+
+#### Customer Type Analysis
+- **Returning customers** contributed **more to total sales** than **new customers**.  
+- **Returning customers:** ≈ **$2.513 million**  
+- **New customers:** ≈ **$2.506 million**  
+
+Although the difference is minor, it indicates that **customer retention** plays a slightly stronger role in driving total sales.
+
+**Insight:**  
+Maintaining strong relationships with **existing customers** is just as valuable—if not more—than acquiring new ones.  
+This presents an opportunity to implement **loyalty programs**, **personalized offers**, and **after-sales engagement strategies** to enhance repeat purchases and overall revenue.
+
+#### Payment Method Analysis
+The **Credit Card** payment method was the **most commonly used**, generating a total sales value of **$1,757,563.52**.
+
+---
+
+### Discount & Pricing Analysis
+The **average discount** given per product category is as follows:
+
+| Product Category | Average Discount |
+|------------------|------------------|
+| Clothing         | 16.02%           |
+| Furniture        | 15.81%           |
+| Food             | 15.38%           |
+| Electronics      | 13.65%           |
+
+**Insight:**  
+Clothing and Furniture categories receive the **highest discount rates**, possibly due to **competitive pricing** or **higher inventory turnover strategies**, while Electronics tend to have lower discount margins.
+
+---
+
+### Summary Insight
+Overall, the data reveals:
+- Strong **regional performance** led by the **North region**.  
+- Clear **seasonal trends** affecting sales volume.  
+- **Returning customers** as key revenue contributors.  
+- **Clothing** as the best-selling category with the **highest discount rate**.  
+- A **dominance of credit card transactions**, indicating customer trust and convenience in digital payments.
